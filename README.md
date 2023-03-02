@@ -48,6 +48,6 @@ Install IIS URL REWRITE MODULE 2. This enables Web administrators to create powe
 <img src="https://i.imgur.com/MUOz9dh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create the directory c://php and unzip all the content included in file PHP 7.3.8 there. Allows for PHP Manager to be registered within IIS.
+Create the directory c://php and unzip all the content included in file PHP 7.3.8 there. Allows for PHP Manager to be registered within IIS as an admin. MySQL 
 </p>
 <br />
