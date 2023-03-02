@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/9I5i7SO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Run Control Panel and under programs click features on or off. Through Internet Information Services, expand World Wide Web and under Application Development featuers turn CGI on.
+Run Control Panel and under programs click features on or off. Through Internet Information Services, expand World Wide Web and under Application Development features turn CGI on.
 </p>
 <br />
 
