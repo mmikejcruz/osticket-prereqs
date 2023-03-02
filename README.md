@@ -20,11 +20,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enabe IIS with CGI
+- Install Rewrite Module
+- Download PHP 7.3.8 and unzip content into directory
+- Install MySQL and launch configuration wizard with a typical setup
+- Register PHP from within IIS as an admin
 
 <h2>Installation Steps</h2>
 
